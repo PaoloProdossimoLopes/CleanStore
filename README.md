@@ -1,2 +1,2 @@
 # CleanStore
-In this project i using clean swift to create communications between files
+In this project I using clean swift to create communications between files
